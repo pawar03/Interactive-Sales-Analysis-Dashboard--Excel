@@ -78,7 +78,7 @@ This project focuses on transforming raw sales data into dynamic, real-time insi
 **3. Revenue by Day:**
 - Bar charts showing profitability trends for each day of the week.
 
-https://github.com/user-attachments/assets/3522a21f-7853-45ad-bc3b-e8af916f0565
+(https://github.com/user-attachments/assets/3522a21f-7853-45ad-bc3b-e8af916f0565)
 
 ## Key Insights & Recommendations
 - **Revenue Exceeds Targets:** A 3.7% positive variance indicates robust sales performance.
