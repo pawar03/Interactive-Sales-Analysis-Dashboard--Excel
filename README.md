@@ -63,8 +63,6 @@ This project focuses on transforming raw sales data into dynamic, real-time insi
 **3. Revenue by Day:**
 - Bar charts showing profitability trends for each day of the week.
 
-![Animation](https://github.com/pawar03/Protein-secondary-structure-prediction/issues/1#issuecomment-2565087446)
-
 ## Key Insights & Recommendations
 - **Revenue Exceeds Targets:** A 3.7% positive variance indicates robust sales performance.
 - **Store Contributions:** Certain stores outperform targets consistently, while others show underperformance that requires attention.
