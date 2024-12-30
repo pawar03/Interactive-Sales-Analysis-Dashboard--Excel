@@ -22,17 +22,32 @@ This project focuses on transforming raw sales data into dynamic, real-time insi
 - **Total Target:** $5.25M (projected sales targets).
 - **Variance:** +3.7%, indicating revenue exceeding targets.
 
+![image](https://github.com/user-attachments/assets/72c0c6bd-a308-456b-94dd-154c85572beb)
+
 **2. Dynamic Visualizations**
 - **Revenue vs Target Analysis:**
   - Bar and line charts displaying monthly trends, including revenue, target, and variance.
+
+![image](https://github.com/user-attachments/assets/f5bed248-ef43-4882-b86f-252f3557e559)
+
+  
 - **Store-Level Performance:**
   - Horizontal bar charts summarizing revenue and targets by store.
   - Variance tracking for each store (e.g., positive/negative performance).
+
+![image](https://github.com/user-attachments/assets/2a57d9e3-9c95-42d3-8651-2c9ff26a4ff5)
+
 - **Day-Wise Profitability:**
   - Bar charts comparing profit percentages for each day of the week.
 
+  ![image](https://github.com/user-attachments/assets/b163859f-2ab8-4b91-b683-9c2eadd7f464)
+
 **3. Interactive Features**
 - **Filters:** Dynamic slicers for selecting specific months or stores.
+
+![image](https://github.com/user-attachments/assets/46353f21-b729-438d-b12b-6bf16ad258f6)
+
+![image](https://github.com/user-attachments/assets/769f087b-4e7e-4352-b893-f5d46b1e2fb3)
 
 ## Technical Skills
 - **Data Preparation**
@@ -62,6 +77,8 @@ This project focuses on transforming raw sales data into dynamic, real-time insi
 
 **3. Revenue by Day:**
 - Bar charts showing profitability trends for each day of the week.
+
+https://github.com/user-attachments/assets/3522a21f-7853-45ad-bc3b-e8af916f0565
 
 ## Key Insights & Recommendations
 - **Revenue Exceeds Targets:** A 3.7% positive variance indicates robust sales performance.
